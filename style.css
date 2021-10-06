@@ -1,0 +1,9 @@
+<style>
+@font-face {
+    font-family: 'BArabics';
+    src: url('./BArabics.ttf');}
+div.warn {    
+   color:red;
+   font-family: BArabics;
+    }
+ </style>
