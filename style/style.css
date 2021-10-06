@@ -1,0 +1,28 @@
+<style>
+@font-face {
+    font-family: 'KFGQPC Uthman Taha Naskh';
+    src: url('./style/KFGQPC Uthman Taha Naskh.ttf');} 
+div.warn {
+   direction : rtl;
+   font-family: KFGQPC Uthman Taha Naskh;
+   font-size: 18px;
+   font-weight: normal;
+   line-height: 150%;
+    }
+
+div.title {
+   direction : rtl;
+   font-family: KFGQPC Uthman Taha Naskh;
+   font-size: 28px;
+   font-weight: bold;
+    }
+
+div.sub {
+   direction : rtl;
+   font-family: KFGQPC Uthman Taha Naskh;
+   font-size: 20px;
+   font-weight: bold;
+    }
+ </style>
+
+
