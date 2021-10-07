@@ -17,6 +17,13 @@ div.title {
    font-weight: bold;
     }
 
+div.heading {
+   direction : rtl;
+   font-family: KFGQPC Uthman Taha Naskh;
+   font-size: 24px;
+   font-weight: bold;
+    }
+
 div.sub {
    direction : rtl;
    font-family: KFGQPC Uthman Taha Naskh;
