@@ -8,6 +8,8 @@ div.warn {
    font-size: 18px;
    font-weight: normal;
    line-height: 150%;
+   margin-top : 5px;
+   margin-bottom : 5px;
     }
 
 div.title {
@@ -31,5 +33,4 @@ div.sub {
    font-weight: bold;
     }
  </style>
-
 
