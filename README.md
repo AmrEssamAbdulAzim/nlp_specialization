@@ -1,9 +1,17 @@
 
-
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html>
 <head>
-<link rel="stylesheet" href="./style/style.css">
+<style>
+body {
+  background-color: linen;
+}
+
+h1 {
+  color: maroon;
+  margin-left: 40px;
+}
+</style>
 </head>
 <body>
 
