@@ -32,5 +32,11 @@ div.sub {
    font-size: 20px;
    font-weight: bold;
     }
+
+div.nano {
+   color : red;
+   direction : rtl;
+   font-weight: bold;
+    }
  </style>
 
