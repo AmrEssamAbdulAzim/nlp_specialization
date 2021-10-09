@@ -1,4 +1,0 @@
-*.tpl
-articles
-test.html
-test.ipynb
