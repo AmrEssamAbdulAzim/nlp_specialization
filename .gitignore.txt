@@ -1,5 +1,0 @@
-web.tpl
-articles
-test.html
-test.ipynb
-html\ conversion\ commands/
