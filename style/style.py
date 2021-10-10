@@ -1,4 +1,4 @@
 from IPython.core.display import HTML
-def css():
-    styles = open('./style/style.css','r').read()
+def css(path = './style/style.css'):
+    styles = open(path,'r').read()
     return HTML(styles)
