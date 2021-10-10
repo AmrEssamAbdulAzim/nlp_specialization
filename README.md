@@ -3,4 +3,4 @@ This Repositry in an application to Natural Language Processing topics for indpe
 الدورة مهتمة باللّغة العربية
 
 
-<img src="stemmer.png">
+
