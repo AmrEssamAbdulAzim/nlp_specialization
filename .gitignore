@@ -1,0 +1,7 @@
+*.tpl
+.ipynb_checkpoints
+articles/
+test.html
+test.ipynb
+html\ conversion\ commands
+__pycache__/
